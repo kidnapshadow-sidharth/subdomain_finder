@@ -1,4 +1,4 @@
-This is asuddomain finder tool made with python
+This is a suddomain finder tool made with python
 
 In this tool we use multithreading functionality for fast subdomain scan 
 
